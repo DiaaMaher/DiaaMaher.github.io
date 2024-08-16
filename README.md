@@ -1,6 +1,8 @@
 # Data Analyst
 
-###Education
+### Education
 Faculty of Computers and Artificial lntelligence, Cairo University 10/20 - 08/24
 
-###Projects
+### Projects
+~ project 1
+~ project 2
