@@ -1,4 +1,4 @@
-# Diaa Maher Hafez
+# Data Analyst
 
 **Location:** Cairo, Egypt  
 **Email:** diaamaher10@gmail.com  
