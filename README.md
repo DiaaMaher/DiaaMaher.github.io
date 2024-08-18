@@ -1,4 +1,5 @@
 # Data Analyst
+![Diaa Maher](assets/6a490ed5-49cc-42c5-8346-cdb959ba32c8.jpg){: .profile-img }
 
 **Location:** Cairo, Egypt  
 **Email:** diaamaher10@gmail.com  
