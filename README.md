@@ -32,6 +32,11 @@ I am a passionate data enthusiast with a strong academic background in data anal
 - **Udemy Power BI Course**
 - **Advanced Excel Course**
 
+## Projects:
+- **Project 1
+- **Project 2
+- **Project 3
+
 ---
 
 ## Skills
